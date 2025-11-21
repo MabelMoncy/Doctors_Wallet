@@ -2,7 +2,7 @@
 
 ## About the Project
 
-Doctors Wallet is a Java-based application, structured as a modular Java project template. It provides a robust, organized starting point for building applications in healthcare, workflow management, or similar domains—while following best practices for portability and maintainability.### The older repo is still in github just as a reference for the folder structures and database fileds identification.
+Doctors Wallet is a Java-based application, structured as a modular Java project template. It provides a robust, organized starting point for building applications in healthcare, workflow management, or similar domains—while following best practices for portability and maintainability. ### The older repo is still in github just as a reference for the folder structures and database fileds identification.
 
 ## Why Was It Built?
 
